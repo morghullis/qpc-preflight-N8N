@@ -1,6 +1,6 @@
 fastapi==0.115.6
 uvicorn[standard]==0.34.0
 pymupdf==1.27.2
-pillow==11.0.0
-python-multipart==0.0.18
+pillow==12.2.0
+python-multipart==0.0.31
 anthropic==0.40.0
